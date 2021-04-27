@@ -2,9 +2,7 @@
 
 ## About
 
-* What is it, what does it do / Abstract
-* Project status: working/prototype
-* Nuxeo Support
+* Facebook Profile scrapping
 
 ### Features
 
